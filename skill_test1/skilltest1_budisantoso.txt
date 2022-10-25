@@ -1,0 +1,5 @@
+Nama     : Budi Santoso
+Umur     : 24 Tahun
+Stack     : QA
+Bahasa Pemrograman : Python
+
